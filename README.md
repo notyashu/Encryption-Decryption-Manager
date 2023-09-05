@@ -11,8 +11,11 @@ The Vigenère cipher is a polyalphabetic substitution cipher, which means it use
 # Features
 
 User-friendly graphical interface for encryption and decryption operations.
+
 Both the Vigenere Cipher and Affine Cipher algorithms are supported.
+
 Choice between encryption and decryption modes.
+
 Choice between plaintext and cipher text input.
 
 # Getting Started
