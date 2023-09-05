@@ -2,6 +2,12 @@
 
 This repository includes a Python script for an encryption manager that works with both the Affine and Vigenere encryption algorithms. For encrypting and decrypting messages using these cryptographic techniques, the manager offers a user-friendly interface.
 
+Affine Cipher:
+The affine cipher is a type of substitution cipher that employs a simple mathematical transformation to encrypt plaintext.
+
+Vigenère Cipher:
+The Vigenère cipher is a polyalphabetic substitution cipher, which means it uses multiple substitution alphabets. Instead of a single key like in the affine cipher, the Vigenère cipher uses a keyword that repeats to create a series of shift values. 
+
 # Features
 
 User-friendly graphical interface for encryption and decryption operations.
