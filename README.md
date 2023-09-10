@@ -50,3 +50,6 @@ Choose whether you want to input plaintext or cipher text.
 Enter the required input text and key as prompted.
 
 The script will display the original and encrypted/decrypted messages.
+
+## Feedback and Contributions
+Feedback and contributions are welcome! If you have any suggestions, found errors, or want to contribute additional analyses, please feel free to open an issue or create a pull request.
